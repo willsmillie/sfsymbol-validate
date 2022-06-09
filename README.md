@@ -12,7 +12,7 @@ Anyway, hope you get some use out of this!
 
 # Usage
 
-`python ./sfvalidate.py symbols.txt -o results.txt`
+`python ./sfvalidate.py symbols.txt -r report.txt`
 
 ## example output
 
