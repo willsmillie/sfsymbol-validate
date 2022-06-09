@@ -1,4 +1,6 @@
-# SFValidate - SFSymbol Validation Script
+# SFValidate
+
+#### SFSymbol Validation Script
 
 Python script to format &amp; validate a list of SFSymbols against sfsymbols.com
 
