@@ -1,4 +1,4 @@
-# sfsymbol-validate
+# SFValidate - SFSymbol Validation Script
 
 Python script to format &amp; validate a list of SFSymbols against sfsymbols.com
 
@@ -26,8 +26,8 @@ Anyway, hope you get some use out of this!
 
 # TODO
 
--[] read input of typed / pasted txt if no file is provided
--[] wrap-in-quotes arg: prepares the list to be copied and pasted into an app
+- [] read input of typed / pasted txt if no file is provided
+- [] wrap-in-quotes arg: prepares the list to be copied and pasted into an app
 
 # Contributions
 
